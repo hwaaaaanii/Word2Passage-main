@@ -1,0 +1,12 @@
+faiss-cpu
+torch
+datasets
+jsonnet
+rapidfuzz
+numpy
+accelerate
+nltk
+pytrec_eval
+openai
+scikit-learn
+pyserini
